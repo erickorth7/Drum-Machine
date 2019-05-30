@@ -1,0 +1,54 @@
+body {
+
+  background-color: black;
+  color: whitesmoke;
+  font-family: 'Orienta', sans-serif;
+}
+
+#title-bar {
+
+  text-align: center;
+  padding: 3% 15% 3%;
+  color: #85ef47;
+}
+
+.set {
+
+  text-align: center;
+  padding: 7% 12% 3%;
+}
+
+.drum-kit {
+
+  margin: 5% auto;
+  text-align: center;
+}
+
+.drum {
+
+  height: 7rem;
+  width: 7rem;
+  border-radius: 10%;
+  padding-right: .5rem;
+  margin-right: .5rem;
+}
+
+.para {
+
+  font-weight: bold;
+  font-size: 2rem;
+  padding-top: 17%;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #94fc13;
+  background-color: #94fc13;
+  opacity: 0.5;
+
+}
+
+#footer {
+  position: absolute;
+  left: 45.5%;
+  top: 38rem;
+}
